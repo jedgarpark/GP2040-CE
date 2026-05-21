@@ -3,7 +3,7 @@
 .cache/
 node_modules/
 configs/MyBoard
-.DS_Store
+**/.DS_Store
 build/
 
 .*.sw*
